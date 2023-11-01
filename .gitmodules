@@ -1,6 +1,6 @@
-[submodule "backend"]
+[submodule "rpl-sti-2023-1-fodex-backend"]
 	path = backend
 	url = https://gitlab.com/Asweh-Debrej/rpl-sti-2023-1-fodex-backend.git
-[submodule "frontend"]
+[submodule "rpl-sti-2023-1-fodex-frontend"]
 	path = frontend
 	url = https://gitlab.com/Asweh-Debrej/rpl-sti-2023-1-fodex-frontend.git
