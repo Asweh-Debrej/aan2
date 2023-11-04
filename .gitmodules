@@ -2,7 +2,9 @@
 	path = backend
 	url = https://gitlab.com/Asweh-Debrej/rpl-sti-2023-1-fodex-backend.git
 	branch = main
+	ignore = dirty
 [submodule "rpl-sti-2023-1-fodex-frontend"]
 	path = frontend
 	url = https://gitlab.com/Asweh-Debrej/rpl-sti-2023-1-fodex-frontend.git
 	branch = main
+	ignore = dirty
