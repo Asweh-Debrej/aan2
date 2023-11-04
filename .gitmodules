@@ -4,3 +4,7 @@
 [submodule "rpl-sti-2023-1-fodex-frontend"]
 	path = frontend
 	url = https://gitlab.com/Asweh-Debrej/rpl-sti-2023-1-fodex-frontend.git
+[submodule "backend"]
+	branch = main
+[submodule "frontend"]
+	branch = main
